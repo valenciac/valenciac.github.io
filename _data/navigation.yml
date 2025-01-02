@@ -14,5 +14,5 @@ main:
   - title: "CV"
     url: /files/Valencia_CV2501.pdf
 
-  - title: "Posts"
-    url: /year-archive/
+  #- title: "Posts"
+  #  url: /year-archive/
