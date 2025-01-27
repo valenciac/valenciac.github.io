@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Economist studying labor markets. In my dissertation I study how firms decide who gets hired, who gets promoted, and how firms respond to higher labor costs.
+I am an applied microeconomist with interests in labor economics. My research combines theoretical and empirical approaches to study how hiring decisions are made in a context of discrimination, to study if firms decide to use machinery more intensively or extensively as a response to increasing labor costs in the United States and to study how promotion decisions are made in the academic context. 
 
 I will be in the 2025-2026 job market.
 
