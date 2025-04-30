@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "968tmc.png"
+  avatar           : "image_v1.jpg"
   name             : "Christian Valencia"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. (c) in Agricultural and Applied Economics at University of Illinois at Urbana-Champaign"
