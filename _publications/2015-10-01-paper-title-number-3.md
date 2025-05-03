@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "How do farmers respond to increasing costs to hire migrant workers?"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
