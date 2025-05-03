@@ -3,7 +3,7 @@ title: "How do farmers respond to increasing costs to hire migrant workers?"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '<br/><img_src='/images/US_county_bordes2.png'>'
+excerpt: '<br/><img src='/images/US_county_bordes2.png'>'
 date: 2015-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
