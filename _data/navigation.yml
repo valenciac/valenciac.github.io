@@ -6,10 +6,10 @@
 
 main:
   - title: "CV"
-    url: /files/Valencia_CV2502.pdf
+    url: /files/Valencia_CV2505.pdf
   
-  #- title: "Research"
-  #  url: /publications/
+  - title: "Research"
+    url: /publications/
 
   #- title: "Teaching"
   #  url: /teaching/   
