@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an applied microeconomist with interests in labor economics. My research combines theoretical and empirical approaches to study how hiring decisions are made in a context of discrimination, to study if firms decide to use machinery more intensively or extensively as a response to increasing labor costs in the United States and to study how promotion decisions are made in the academic context. 
+I am an Applied Economics PhD candidate at the University of Illinois at Urbana-Champaign. My research combines theoretical and empirical approaches to study topics in labor economics and migration policy. 
 
-I will be in the 2025-2026 job market.
+In my dissertation I study the following research questions: 
+1) How do farmers respond to increasing labor costs to hire migrant workers?
+2) Can soft skills mitigate hiring discrimination?
+3) Are promotion decisions associated to demographic characteristics in the academic context?  
 
-Contact information:
-====
-cav5@illinois.edu
+I am on the 2025-2026 Job Market.
+
+Contact me at: cav5@illinois.edu
