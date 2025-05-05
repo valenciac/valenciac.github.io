@@ -8,7 +8,8 @@ redirect_from:
 ---
 I am an Applied Economics PhD candidate at the University of Illinois at Urbana-Champaign. My research combines theoretical and empirical approaches to study topics in labor economics and migration policy. 
 
-In my dissertation I study the following research questions: 
+In my dissertation I study the following research questions:
+
 1) How do farmers respond to increasing labor costs to hire migrant workers?
 
 2) Can soft skills mitigate hiring discrimination?
