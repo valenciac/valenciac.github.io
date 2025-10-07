@@ -80,7 +80,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-height: auto;
+  height: auto;
   // set width only, for non-square avatars
 
   @include breakpoint($large) {
@@ -90,7 +90,7 @@ height: auto;
   }
 
   img {
-    max-width: 175px;
+    max-width: 195px;
     border-radius: 0;
 
     @include breakpoint($large) {
