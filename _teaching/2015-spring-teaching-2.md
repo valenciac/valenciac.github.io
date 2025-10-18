@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: teaching
 type: ""
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/teaching-1
 venue: "University of Illinois at Urbana-Champaign"
 date: 2025-01-01
 location: "Urbana, United States"
