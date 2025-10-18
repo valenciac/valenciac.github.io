@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign"
-date: 
+date: 2024-01-01
 location: "Urbana, United States"
 ---
 
