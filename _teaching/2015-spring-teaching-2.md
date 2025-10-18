@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: teaching
 type: ""
-permalink: /teaching/teaching-1
+permalink: /teaching/2015-sprong-teaching-2
 venue: "University of Illinois at Urbana-Champaign"
 date: 2025-01-01
 location: "Urbana, United States"
