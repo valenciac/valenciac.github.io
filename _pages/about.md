@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Economics PhD candidate at the University of Illinois at Urbana-Champaign. My research interests are labor economics and migration policy. 
+I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois at Urbana-Champaign. My research focuses on labor economics and migration policy. 
 
-In my dissertation I study the following research questions: 1) How do farmers respond to increasing labor costs to hire migrant workers? 2) Can soft skills mitigate hiring discrimination? 3) Are demographic characteristics relevant for promotion and retention in academia?
+In my Job Market Paper I study visa regulations that increase the cost to hire foreign temporary workers in US agriculture and how they affect the domestic labor market and farm choice of inputs.
 
 I am on the 2025-2026 Job Market.
 
