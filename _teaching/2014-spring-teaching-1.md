@@ -8,13 +8,10 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Behavioral Economics and Consumer Decision Making. Spring 2025
+- Global Agribusiness Management. Spring 2025
+- Environmental Justice and Food Security. Fall 2024
+- Applied Statistics Methods and Data Analytics. Spring 2024
+- Big Data Analytics in Finance. Fall 2023
+- Environmental Economics. Fall 2022 – Spring 2023
+- Intermediate Microeconomic Theory. Fall 2020 – Spring 2021
