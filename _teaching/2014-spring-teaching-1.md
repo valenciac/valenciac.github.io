@@ -1,11 +1,11 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign"
-date: 2014-01-01
-location: "City, Country"
+date: 
+location: "Urbana, United States"
 ---
 
 - Behavioral Economics and Consumer Decision Making. Spring 2025
