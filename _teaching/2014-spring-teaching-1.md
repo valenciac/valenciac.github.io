@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: ""
+type: "Undegraduate and Masters courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign"
 date: 2024-01-01
