@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: ""
-permalink: /teaching/teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign"
 date: 
 location: "Urbana, United States"
