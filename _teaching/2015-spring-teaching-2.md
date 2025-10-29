@@ -7,5 +7,5 @@ venue: "University of Illinois at Urbana-Champaign"
 date: 2025-01-01
 location: "Urbana, United States"
 ---
-- Behavioral Economics and Consumer Decision Making. Fall 2025
+- Behavioral Economics and Financial Decision Making. Fall 2025
 
