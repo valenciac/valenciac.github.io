@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Urbana, United States"
 ---
 
-- Behavioral Economics and Consumer Decision Making. Spring 2025
+- Behavioral Economics and Financial Decision Making. Spring 2025
 - Global Agribusiness Management. Spring 2025
 - Environmental Justice and Food Security. Fall 2024
 - Applied Statistics Methods and Data Analytics. Spring 2024
