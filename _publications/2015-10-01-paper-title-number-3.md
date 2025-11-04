@@ -1,6 +1,6 @@
 ---
 title: "Visa Regulations, Agricultural Employment, and Productivity"
-collection: publications
+collection: books
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper'
