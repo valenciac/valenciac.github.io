@@ -79,9 +79,11 @@ publication_category:
   books:
     title: 'Job Market Paper'
   manuscripts:
-    title: 'Working papers'    
-  conferences:
+    title: 'Working Papers'    
+  publications:
     title: 'Publications'
+  conferences:
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
