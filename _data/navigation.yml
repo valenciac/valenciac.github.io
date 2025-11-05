@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: /files/Valencia_CV2509.pdf
   
-  - title: "Research"
-    url: /publications/
+  #- title: "Research"
+  #  url: /publications/
 
   - title: "Teaching"
     url: /teaching/   
