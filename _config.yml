@@ -76,13 +76,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
+  Job Market Paper:
     title: 'Job Market Paper'
-  manuscripts:
+  Working Papers:
     title: 'Working Papers'    
-  publications:
+  Publications:
     title: 'Publications'
-  conferences:
+  Work in Progress:
     title: 'Work in Progress'
 
 # Site Settings
@@ -266,8 +266,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      show_date: false
-      show_meta: false
   # _portfolio
   - scope:
       path: ""
