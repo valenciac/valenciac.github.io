@@ -39,14 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* Hide the venue/year line on the publications archive page */
-.publications-page .archive__item-meta {
-  display: none !important;
-}
-
-/* (optional) also hide on each single-publication page */
-.publications-page .page__meta {
-  display: none !important;
-}
-#pubs-archive .archive__item-meta { display: none !important; }
