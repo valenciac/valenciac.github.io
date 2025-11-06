@@ -266,6 +266,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      show_date: false
+      show_meta: false
   # _portfolio
   - scope:
       path: ""
