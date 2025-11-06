@@ -2,10 +2,13 @@
 collection: publications
 category: Work in Progress
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 
+excerpt: | 
   - Diversity in Academia (with Anjali Adukia, Elisa Xi Chen, Marieke Kleemans and Anna Gifty Opoku-Agyeman
+
   - From Metro Lines to Market Values: A Case Study of Rail Expansion and Land Prices in Buenos Aires (with Gustavo Nino)
+
   - The Effect of Agricultural Labor Costs on Crop Choice and Land Use (with Samyam Shrestha)
+
 date: 2009-10-01
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
