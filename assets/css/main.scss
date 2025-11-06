@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+#pubs-archive .archive__item-excerpt,
+#pubs-archive p {
+  text-align: justify;
+  text-justify: inter-word;     /* nicer spacing */
+  hyphens: auto;                /* optional: better wrapping */
+}
