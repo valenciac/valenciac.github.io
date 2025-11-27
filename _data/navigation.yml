@@ -14,5 +14,5 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "Outreach"
-    url: /year-archive/
+  #- title: "Outreach"
+    #url: /year-archive/
