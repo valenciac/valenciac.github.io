@@ -1,7 +1,7 @@
 ---
 collection: publications
 category: Publications
-permalink: 'https://onlinelibrary.wiley.com/doi/10.1111/ecin.12437'
+#permalink: ''
 excerpt: | 
   - Peer pressure: Experimental evidence from restroom behavior (with B. Cardinale Lagomarsino, M.
 Gutman, L. Freira, M. Lanzalot, M. Lauletta, L. Malchik, F. Montano Campos, B. Pacini and M.
@@ -10,7 +10,7 @@ Rossi). Economic Inquiry. Vol 55 (3), 2017.
 #date: 2009-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/ecin.12437'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
